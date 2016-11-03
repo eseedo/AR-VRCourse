@@ -1,5 +1,5 @@
-# VRCourse
-VR Course
+# VRARDevCourse
+VR AR Development Tutorial
 
 在这里，学习VR/AR开发的基本知识
 
