@@ -9,4 +9,6 @@ HoloLens, HTC Vive, Oculus Rift, Google Daydream VR, Vuforia
 
 讨论：http://www.vr910.com
 
+Personal Website: http://icode.ai
+
 今日头条号： icode
