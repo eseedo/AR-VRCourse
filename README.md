@@ -7,8 +7,6 @@ Unity3D和UE4引擎
 
 HoloLens, HTC Vive, Oculus Rift, Google Daydream VR, Vuforia
 
-讨论：http://www.vr910.com
+讨论：http://www.vr910.com/forum.php
 
 Personal Website: http://icode.ai
-
-今日头条号： icode
