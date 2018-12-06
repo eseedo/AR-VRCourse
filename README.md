@@ -5,8 +5,6 @@ VR AR MR Development Course
 
 Unity3D和UE4引擎
 
-HoloLens, HTC Vive, Oculus Rift, Google Daydream VR, Vuforia
-
-讨论：http://www.vr910.com/forum.php
+HoloLens, HTC Vive, Oculus Go, ARKit, ARCore
 
 Personal Website: http://icode.ai
