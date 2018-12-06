@@ -1,4 +1,4 @@
-# VR Course
+# AR VR Course
 VR AR MR Development Course
 
 在这里，学习VR/AR/MR开发的基本知识
