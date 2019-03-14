@@ -7,4 +7,6 @@ VR AR MR Development Course
 
 HoloLens, HTC Vive, Oculus Go, ARKit, ARCore
 
-Personal Website: http://icode.fun
+微信：iseedo
+
+答疑: http://icode.fun
