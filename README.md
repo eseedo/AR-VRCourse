@@ -1,12 +1,12 @@
 # AR VR MR Course
-VR AR MR Development Course
 
-在这里，学习VR/AR/MR开发的基本知识
+VR/AR/MR开发入门课程（基于Unity3D和UE4引擎）
 
-基于Unity3D和UE4引擎
-
+平台：
 ARKit, ARCore, Vuforia, HoloLens, HTC Vive, Oculus Go, 
 
 微信：iseedo
 
 答疑: http://icode.fun
+
+知乎专栏：http://zhuanlan.zhihu.com/kidscoding
