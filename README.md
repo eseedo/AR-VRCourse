@@ -14,5 +14,3 @@ ARKit, ARCore, Vuforia, HoloLens, HTC Vive Cosmos, Oculus Quest, Google Glass
 微信公众号： vrlife
 
 
-讨论: http://icode.fun
-
