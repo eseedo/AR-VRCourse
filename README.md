@@ -11,7 +11,9 @@ ARKit, ARCore, Vuforia, HoloLens, HTC Vive, Oculus Quest
 
 微信公众号： vrlife
 
-Discuss: http://icode.fun/ask
+Website: http://www.vr910.com
+
+
 
 ##### 参考书：
 
