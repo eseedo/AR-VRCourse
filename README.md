@@ -1,6 +1,6 @@
 ## AR VR MR Course
 
-VR/AR/MR开发入门课程（基于Unity3D和UE4引擎）
+VR/AR/MR开发入门课程（基于Unity3D/UE4引擎/Native）
 
 ##### 设备平台：
 ARKit, ARCore, Vuforia, HoloLens, HTC Vive, Oculus Quest
