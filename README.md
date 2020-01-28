@@ -7,8 +7,6 @@ ARKit, ARCore, Vuforia, HoloLens, HTC Vive, Oculus Quest
 
 ##### 联系方式：
 
-个人微信号：iseedo
-
 微信公众号： vrlife
 
 Website: http://www.vr910.com
