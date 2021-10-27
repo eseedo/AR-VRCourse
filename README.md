@@ -23,6 +23,13 @@ HTC Vive
 
 ##### 参考书：
 
+Unity AR/VR开发：实战高手训练营（https://item.jd.com/13354680.html)
+
+
+资源链接: https://pan.baidu.com/s/1ROIYdWr1IILvmyclpimX7A 提取码: u0k5 
+
+
+
 《Unity AR/VR开发：从新手到专家》
 
 (https://item.jd.com/12269697.html)
