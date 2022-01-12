@@ -35,6 +35,10 @@ Unity AR/VR开发：实战高手训练营（https://item.jd.com/13354680.html)
 (https://item.jd.com/12269697.html)
 
 
+资源链接：https://pan.baidu.com/s/1-MIXvy2Mq4r_rDyoHf-BgQ 提取码: huua 
+
+
+
 ##### 联系方式：
 
 微信公众号： vrlife
