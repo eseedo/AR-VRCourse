@@ -2,7 +2,7 @@
 
 VR/AR/MR开发入门课程：
 
--基于Unity3D/UE4引擎/iOS和Android原生开发
+-基于Unity3D/UE4/UE5/iOS和Android原生开发
 
 ##### 设备平台：
 
@@ -17,6 +17,8 @@ HoloLens
 Oculus Quest 1/2
 
 HTC Vive
+
+Pico 4(To be added)
 
 
 
@@ -40,8 +42,6 @@ Unity AR/VR开发：实战高手训练营（https://item.jd.com/13354680.html)
 
 
 ##### 联系方式：
-
-微信公众号： vrlife
 
 Website: http://www.vr910.com
 
