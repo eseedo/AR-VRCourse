@@ -38,8 +38,3 @@ Unity AR/VR开发：实战高手训练营（https://item.jd.com/13354680.html)
 
 
 资源链接：https://pan.baidu.com/s/1-MIXvy2Mq4r_rDyoHf-BgQ 提取码: huua 
-
-
-Link:
-
-http://www.vr910.com
